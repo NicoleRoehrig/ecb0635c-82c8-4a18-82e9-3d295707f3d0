@@ -32,7 +32,7 @@ Ulrich Seidler/Berliner Zeitung
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_OHNE_PHOTO
 ---------------
-Über das Projekt Mallehits und Hochkultur
+Über das Projekt Ballermann trifft Hochkultur
 ---------------
 Goethe, Eichendorff und Rilke sind tot. Die großen Poeten der Gegenwart heißen Ingo ohne Flamingo, //
 Ikke Hüftgold und Mickie Krause. Inspiriert von Bernd Alois Zimmermann und dessen Konzept von der //

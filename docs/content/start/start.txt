@@ -4,8 +4,8 @@ TEXTBLOCK_MIT_PHOTO_LINKS
 -------------
 Simon Mack
 -------------
-...unterrichtet Gehörbildung, Musiktheorie und schulpraktisches Klavierspiel an der Musikhochschule in München. //
-Darüber hinaus ist er als Jazzpianist, Arrangeur und Komponist tätig.
+...ist Professor für Gehörbildung, Musiktheorie an der Musikhochschule in München. //
+Darüber hinaus ist er als Jazzpianist, Arrangeur und Komponist tätig. <link>anzeigetext:mehr;url:"/about"</link>
 -------------
 start/photo-start.jpeg
 ----------------------------------------------------------------------------------------------------------------------------------

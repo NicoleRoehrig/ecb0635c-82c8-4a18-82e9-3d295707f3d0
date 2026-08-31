@@ -32,7 +32,7 @@ Michael Rebhahn / SWR 2
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_OHNE_PHOTO
 ---------------
-Über das Ballermannprojekt
+Ballermannprojekt
 ---------------
 Goethe, Eichendorff und Rilke sind tot. Die großen Poeten der Gegenwart heißen Ingo ohne Flamingo, //
 Ikke Hüftgold und Mickie Krause. Inspiriert von Bernd Alois Zimmermann und dessen Konzept von der //

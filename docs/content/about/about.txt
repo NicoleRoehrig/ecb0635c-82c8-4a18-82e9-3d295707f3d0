@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_MIT_PHOTO_RECHTS
 -------------
-About
+Kurzbiographie
 -------------
 Simon Mack hat an der Münchner Musikhochschule Schulmusik, Gehörbildung, Musiktheorie und Jazzklavier studiert. //
 Während seines Studiums war er Stipendiat des Cusanuswerks. //

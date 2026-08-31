@@ -4,7 +4,7 @@ TEXTBLOCK_MIT_PHOTO_LINKS
 -------------
 Simon Mack
 -------------
-Simon Mack ist als Pädagoge, Arrangeur, Komponist und Pianist tätig. Seit 2025 ist er Professor für Musiktheorie und Gehörbildung an der Hochschule für Musik und Theater München. //
+Simon Mack ist als Arrangeur, Komponist und Pädagoge tätig. Seit 2025 ist er Professor für Musiktheorie und Gehörbildung an der Hochschule für Musik und Theater München. //
  <link>anzeigetext:mehr;url:"about"</link>
 -------------
 start/photo-start.jpeg

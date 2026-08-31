@@ -2,19 +2,19 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_MIT_PHOTO_RECHTS
 -------------
-Über mich
+About
 -------------
 Simon Mack hat an der Münchner Musikhochschule Schulmusik, Gehörbildung, Musiktheorie und Jazzklavier studiert. //
 Während seines Studiums war er Stipendiat des Cusanuswerks. //
-Aktuell unterrichtet er Gehörbildung, Musiktheorie und schulpraktisches Klavierspiel als Senior Lecturer am Mozarteum in //
-Innsbruck und als Lehrbeauftragter an der Musikhochschule in München.
+Seit 2025 ist er Professor für Musiktheorie und Gehörbildung an der Hochschule für Musik und Theater München.
 
 Darüber hinaus ist Simon Mack auch als Pianist tätig. Im Jahr 2016 wurde er mit dem Jazzförderpreis der Stadt Ingolstadt ausgezeichnet. //
 Als langjähriges Ensemblemitglied des Münchner Fastfood Improvisationstheaters schätzt er es, //
 sich auf der Bühne überraschen zu lassen und spontan zu reagieren. //
 Als Pianist im Ensemble "Tangomania" tritt er zusammen mit Musikern aus dem Bayerischen Staatsorchester auf. //
 Als Auftragskomponist war Simon Mack verantwortlich für die Musik zum Podcast "The Real Bierkönig", //
-der es bis auf Platz 1 der deutschen Podcast-Charts geschafft hat.
+der es bis auf Platz 1 der deutschen Podcast-Charts geschafft hat. //
+Im Mai 2025 wurde sein Singspiel "Exportschlager" am Staatstheater Augsburg uraufgeführt.
 
 Simon Mack ist Gründungsmitglied des Vereins "Musicians for a better life e.V.", der soziale Musikprojekte in Deutschland, //
 Rumänien und Tansania umsetzt.
@@ -24,9 +24,9 @@ about/photo-about.png
 ----------------------------------------------------------------------------------------------------------------------------------
 ZITAT
 -------------
-Simon Mack sieht in den Zeilen von Mickie Krause viel mehr: eine ebenso verheißungsvolle wie beunruhigende Expressivität, Anklänge an Schnitzler oder Hoffmannsthal womöglich, aufgehoben im Kolorit des Fin de siècle.
+Simon Mack sieht in den Zeilen von Mickie Krause so viel mehr: eine ebenso verheißungsvolle wie beunruhigende Expressivität, Anklänge an Schnitzler oder Hoffmannsthal womöglich, aufgehoben im Kolorit des Fin de siècle.
 --------
-Michael Rebhahn / Südwestrundfunk
+Michael Rebhahn / SWR 2
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_OHNE_PHOTO
@@ -35,7 +35,7 @@ TEXTBLOCK_OHNE_PHOTO
 ---------------
 Goethe, Eichendorff und Rilke sind tot. Die großen Poeten der Gegenwart heißen Ingo ohne Flamingo, //
 Ikke Hüftgold und Mickie Krause. Inspiriert von Bernd Alois Zimmermann und dessen Konzept von der //
-„Kugelgestalt der Zeit“ bleibt Postmoderne im Sinne des Projekts „Mallehits sind Hochkultur“ nicht nur ein theoretisches Konstrukt.
+„Kugelgestalt der Zeit“ bleibt Postmoderne hier nicht nur ein theoretisches Konstrukt. //
 Bach und Bier, Brahms und Brüste, Schönberg und Schaumparty: Was die Mode streng geteilt, //
 darf sich hier in einem dialektisch vermittelten Ganzen zeigen.
 

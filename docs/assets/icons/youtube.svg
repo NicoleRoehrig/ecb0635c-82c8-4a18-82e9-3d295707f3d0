@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <!-- https://upload.wikimedia.org/wikipedia/commons/2/20/YouTube_2024.svg -->
+<!-- viewBox corrected to the artwork bounds. The export declared
+     "0 0 100 83.90052", but the paths span x -4.92..116.74, so the badge was
+     clipped on the right. width/height matched neither and have been squared up. -->
 <svg
-   width="134px"
+   width="122px"
    height="84px"
-   viewBox="0 0 100 83.90052"
+   viewBox="-5 0 122 84"
    xmlns="http://www.w3.org/2000/svg"><g
      transform="translate(-59,-137.39814)"><g
        id="g2366"><path

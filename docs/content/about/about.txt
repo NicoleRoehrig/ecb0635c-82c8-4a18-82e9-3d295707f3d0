@@ -1,6 +1,12 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-TEXTBLOCK_MIT_PHOTO_RECHTS
+PAGE_TITLE
+-------------
+Vom Kunstlied
+zum Partyschlager – und zurück
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+TEXTBLOCK_OHNE_PHOTO
 -------------
 Kurzbiographie
 -------------
@@ -19,11 +25,11 @@ Im Mai 2025 wurde sein Singspiel "Exportschlager" am Staatstheater Augsburg urau
 
 Simon Mack ist Gründungsmitglied des Vereins "Musicians for a better life e.V.", der soziale Musikprojekte in Deutschland, //
 Rumänien und Tansania umsetzt.
--------------
-about/photo-about.png
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 ZITAT
+-------------
+Presse
 -------------
 Mack komponiert mit der Leidenschaft und Akribie des echten Fälschers - einem von der Art, wie sie auf dem Gebiet der Malerei auch erfahrene Kunstgeschichtler täuschen.
 --------
@@ -46,6 +52,8 @@ erforscht werden. Mit anderen Worten: Das Ballermann-Projekt geht weiter!
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 ZITAT
+-------------
+Presse
 -------------
 Ich bin begeistert. Das ist eine völlig neue Qualität!
 -------

@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-TEXTBLOCK_MIT_PHOTO_LINKS
+TEXTBLOCK_MIT_PHOTO_RECHTS
 -------------
 Simon Mack
 -------------
@@ -8,9 +8,13 @@ Simon Mack ist als Arrangeur, Komponist und Pädagoge tätig. Seit 2025 ist er P
  <link>anzeigetext:mehr;url:"about"</link>
 -------------
 start/photo-start.jpeg
+-------------
+Arrangeur, Komponist, Pädagoge
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 ZITAT
+-------------
+Presse
 -------------
 Dem Komponisten Simon Mack ist es gelungen, diesem Text transzendente Dimensionen abzugewinnen. //
 Was als Ballermannhit abspringt, landet als seelenkundige Elegie der Weltflucht, Einsamkeit und //

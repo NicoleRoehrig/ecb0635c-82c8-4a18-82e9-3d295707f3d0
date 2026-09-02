@@ -46,30 +46,6 @@ Bleistift auf Notenpapier
 about/impression-3.jpg
 Impressionen
 Klavierauszug mit Gesangslinie
--------------
-about/fotoexportschlager.jpg
-Impressionen
-Handschrift, Detail
--------------
-about/fotoladenburger.jpg
-Impressionen
-Bleistift auf Notenpapier
--------------
-about/fotoexportschlager2.jpg
-Impressionen
-Klavierauszug mit Gesangslinie
--------------
-about/fotobergsonannabelle.jpg
-Impressionen
-Handschrift, Detail
--------------
-about/fotobergsonapplaus.jpg
-Impressionen
-Bleistift auf Notenpapier
--------------
-about/fotorundfunkchor.jpg
-Impressionen
-Klavierauszug mit Gesangslinie
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_OHNE_PHOTO

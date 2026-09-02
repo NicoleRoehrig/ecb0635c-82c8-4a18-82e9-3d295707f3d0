@@ -2,69 +2,67 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 PAGE_TITLE
 -------------
+Radiobeiträge
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+MP3_LISTE
+-------------
+presse/DLF_Tonart_2023.01.30.mp3
+Ballermann ist Hochkultur
+Deutschlandfunk · Tonart, 30.01.2023
+-------------
+presse/SWR 2023.02.16.mp3å
+Mickie Krause im Fin de siècle
+SWR Kultur · Beitrag, 16.02.2023
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+PAGE_TITLE
+-------------
 Pressestimmen
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-ZITAT
+CONTENT_CLICK_ROTATOR
 -------------
-
+Deutschlandfunk
+-------------
+Mascha Drost
 -------------
 Simon Mack hat ein großartiges Projekt ins Leben gerufen: Das Ballermannprojekt – Sauf- und Gröllieder werden so konzertsaaltauglich.
 -------------
-Mascha Drost / Deutschlandfunk
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
-ZITAT
+Süddeutsche Zeitung
 -------------
-
+Michael Stallknecht
 -------------
-Unter der schnörkellosen These „Ballermann ist Hochkultur“ bestritten die Sopranistin Annabelle Kern und der Bariton Jonas Müller ein ganzes Programm mit Macks Partyschlagern, unterstützt von der Starschauspielerin Barbara de Koy, die der speziellen Lyrik des Vollsuffs ihren ganz eigenen Sinn für Sprachfarben und rhythmische Präzision lieh. Das optisch eher klassikaffine Publikum war hin- und hergerissen zwischen Lachkrampf und andächtigem Lauschen. 
---------
-Michael Stallknecht / Süddeutsche Zeitung
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
-ZITAT
+Unter der schnörkellosen These „Ballermann ist Hochkultur“ bestritten die Sopranistin Annabelle Kern und der Bariton Jonas Müller ein ganzes Programm mit Macks Partyschlagern, unterstützt von der Starschauspielerin Barbara de Koy, die der speziellen Lyrik des Vollsuffs ihren ganz eigenen Sinn für Sprachfarben und rhythmische Präzision lieh. Das optisch eher klassikaffine Publikum war hin- und hergerissen zwischen Lachkrampf und andächtigem Lauschen.
 -------------
-
+BR Klassik
+-------------
+Sylvia Schreiber
 -------------
 Simon Mack ist eigentlich nicht der Typ, der jeden Sommer auf dem Ballermann abhängt. Trotzdem lebt er auch als klassischer Musik nicht unter einer Käseglocke.
 -------------
-Sylvia Schreiber / BR Klassik
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
-ZITAT
+Stern
 -------------
-
+Eugen Epp
 -------------
 Mack selbst fühlt sich so in die Texte hinein, wie das bei zwei Promille wohl nicht mehr geht. In „Geh mal Bier holen“ erkennt er „die überaus schmerzhafte Frage nach der Vergänglichkeit von Jugend, Schönheit und Liebe“. So hat Mickie Krause wahrscheinlich noch nie darüber nachgedacht.
---------
-Eugen Epp / Stern
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
-ZITAT
 -------------
-
+SWR Kultur
+-------------
+Michael Rebhahn
 -------------
 Simon Mack sieht in den Zeilen von Mickie Krause so viel mehr: eine ebenso verheißungsvolle wie beunruhigende Expressivität, Anklänge an Schnitzler oder Hoffmannsthal womöglich, aufgehoben im Kolorit des Fin de siècle.
 -------------
-Michael Rebhahn / SWR Kultur
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
-ZITAT
+Augsburger Allgemeine
 -------------
-
+Veronika Lintner
 -------------
-Glucksen, prusten, grinsen im Publikum. Der Abend reizt die Lachmuskulatur, auch gegen den inneren Widerstand des Anstands. 
---------
-Veronika Lintner / Augsburger Allgemeine
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
-ZITAT
+Glucksen, prusten, grinsen im Publikum. Der Abend reizt die Lachmuskulatur, auch gegen den inneren Widerstand des Anstands.
 -------------
-
+Berliner Zeitung
+-------------
+Ulrich Seidler
 -------------
 Dem Komponisten Simon Mack ist es gelungen, diesem Text transzendente Dimensionen abzugewinnen. Was als Ballermannhit abspringt, landet als seelenkundige Elegie der Weltflucht, Einsamkeit und systematischen Selbstzerstörung.
--------------
-Ulrich Seidler / Berliner Zeitung
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------

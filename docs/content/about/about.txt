@@ -2,8 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 PAGE_TITLE
 -------------
-Vom Kunstlied
-zum Partyschlager – und zurück
+Auch Ballermann ist Hochkultur
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_OHNE_PHOTO
@@ -31,9 +30,9 @@ ZITAT
 -------------
 Presse
 -------------
-Mack komponiert mit der Leidenschaft und Akribie des echten Fälschers - einem von der Art, wie sie auf dem Gebiet der Malerei auch erfahrene Kunstgeschichtler täuschen.
+Simon Mack hat das Unmögliche geschafft: Er bringt Leute zum Lachen - und gleichzeitig zum Nachdenken über das, was wir "gute" Musik nennen.
 --------
-Michael Stallknecht / Süddeutsche Zeitung
+Holger Hermannsen / Klassik Radio
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_OHNE_PHOTO

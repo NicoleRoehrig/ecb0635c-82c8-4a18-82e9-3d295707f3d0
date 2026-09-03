@@ -59,25 +59,9 @@ about/fotobergsonjonashd.jpg
 Konzert
 Anna Gebhardt, Jonas Müller
 -------------
-about/fotodekoymitflaecherechts.jpg
-Konzert
-Barbara de Koy
--------------
-about/jonasmitflaecherechts.jpg
-Konzert
-Jonas Müller
--------------
 about/impression-1.jpg
 Impressionen
 Handschrift, Detail
--------------
-about/impression-2.jpg
-Impressionen
-Bleistift auf Notenpapier
--------------
-about/impression-3.jpg
-Impressionen
-Klavierauszug mit Gesangslinie
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_OHNE_PHOTO

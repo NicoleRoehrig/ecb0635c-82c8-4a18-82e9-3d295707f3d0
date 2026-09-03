@@ -36,7 +36,7 @@ Rumänien und Tansania umsetzt.
 BILDROTATOR
 -------------
 about/fotoexportschlager.jpg
-Staatstheater Augsburg
+Inszenierung "Exportschlager"
 Wiard Witholt, Luise von Garnier, Elke Kottmair, Natalya Boeva, Claudio Zazzaro
 -------------
 about/fotoladenburger.jpg
@@ -48,11 +48,11 @@ Ballermannprojekt live
 Anna Gebhardt, Annabelle Kern
 -------------
 about/fotoexportschlager2.jpg
-Staatstheater Augsburg
+Inszenierung "Exportschlager"
 Elke Kottmair, Wiard Witholt
 -------------
 about/fotorundfunkchorhd.jpg
-Rundfunkchor Berlin
+Konzert mit dem Rundfunkchor Berlin
 Boussa Thiam, Simon Mack
 -------------
 about/impression-1.jpg

@@ -8,7 +8,7 @@ Radiobeiträge
 MP3_LISTE
 -------------
 presse/DLF_Tonart_2023.01.30.mp3
-Interview mit Mascha Drost
+"Ballermannprojekt" - Saufhymnen, die fürs Konzerthaus taugen (Interview mit Mascha Drost)
 Deutschlandfunk · Tonart
 -------------
 presse/SWR 2023.02.16.mp3
@@ -23,17 +23,11 @@ Pressestimmen
 ----------------------------------------------------------------------------------------------------------------------------------
 CONTENT_CLICK_ROTATOR
 -------------
-Deutschlandfunk
+Stern
 -------------
-Mascha Drost
+Eugen Epp
 -------------
-Simon Mack hat ein großartiges Projekt ins Leben gerufen: Das Ballermannprojekt – Sauf- und Gröllieder werden so konzertsaaltauglich.
--------------
-Süddeutsche Zeitung
--------------
-Michael Stallknecht
--------------
-Unter der schnörkellosen These „Ballermann ist Hochkultur“ bestritten die Sopranistin Annabelle Kern und der Bariton Jonas Müller ein ganzes Programm mit Macks Partyschlagern, unterstützt von der Starschauspielerin Barbara de Koy, die der speziellen Lyrik des Vollsuffs ihren ganz eigenen Sinn für Sprachfarben und rhythmische Präzision lieh. Das optisch eher klassikaffine Publikum war hin- und hergerissen zwischen Lachkrampf und andächtigem Lauschen.
+Mack selbst fühlt sich so in die Texte hinein, wie das bei zwei Promille wohl nicht mehr geht. In „Geh mal Bier holen“ erkennt er „die überaus schmerzhafte Frage nach der Vergänglichkeit von Jugend, Schönheit und Liebe“. So hat Mickie Krause wahrscheinlich noch nie darüber nachgedacht.
 -------------
 BR Klassik
 -------------
@@ -41,11 +35,17 @@ Sylvia Schreiber
 -------------
 Simon Mack ist eigentlich nicht der Typ, der jeden Sommer auf dem Ballermann abhängt. Trotzdem lebt er auch als klassischer Musiker nicht unter einer Käseglocke.
 -------------
-Stern
+Süddeutsche Zeitung
 -------------
-Eugen Epp
+Michael Stallknecht
 -------------
-Mack selbst fühlt sich so in die Texte hinein, wie das bei zwei Promille wohl nicht mehr geht. In „Geh mal Bier holen“ erkennt er „die überaus schmerzhafte Frage nach der Vergänglichkeit von Jugend, Schönheit und Liebe“. So hat Mickie Krause wahrscheinlich noch nie darüber nachgedacht.
+Unter der schnörkellosen These „Ballermann ist Hochkultur“ bestritten die Sopranistin Annabelle Kern und der Bariton Jonas Müller ein ganzes Programm mit Macks Partyschlagern, unterstützt von der Starschauspielerin Barbara de Koy, die der speziellen Lyrik des Vollsuffs ihren ganz eigenen Sinn für Sprachfarben und rhythmische Präzision lieh. Das optisch eher klassikaffine Publikum war hin- und hergerissen zwischen Lachkrampf und andächtigem Lauschen.
+-------------
+Deutschlandfunk
+-------------
+Mascha Drost
+-------------
+Simon Mack hat ein großartiges Projekt ins Leben gerufen: Das Ballermannprojekt – Sauf- und Gröllieder werden so konzertsaaltauglich.
 -------------
 SWR Kultur
 -------------

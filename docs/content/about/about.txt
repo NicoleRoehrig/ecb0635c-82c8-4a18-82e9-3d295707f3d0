@@ -47,17 +47,17 @@ about/fotoexportschlager2.jpg
 Staatstheater Augsburg
 Elke Kottmair, Wiard Witholt
 -------------
-about/fotobergsonannabelle.jpg
+about/fotobergsonannabellehd.jpg
 Konzert
 Anna Gebhardt, Annabelle Kern
--------------
-about/fotobergsonjonas.jpg
-Konzert
-Anna Gebhardt, Jonas Müller
 -------------
 about/fotorundfunkchorhd.jpg
 Rundfunkchor Berlin
 Boussa Thiam, Simon Mack
+-------------
+about/fotobergsonjonashd.jpg
+Konzert
+Anna Gebhardt, Jonas Müller
 -------------
 about/fotodekoymitflaecherechts.jpg
 Konzert

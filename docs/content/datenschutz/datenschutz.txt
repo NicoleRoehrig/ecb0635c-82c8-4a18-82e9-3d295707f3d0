@@ -273,5 +273,23 @@ europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährlei
 dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere //
 Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: //
 https://www.dataprivacyframework.gov/participant/5780.
+
+4.2.Gumroad
+
+Wir bieten auf dieser Website digitale Produkte zum Kauf an, die über den Dienst „Gumroad" der Gumroad, Inc., 548 Market St PMB 96143, San Francisco, CA 94104, USA („Gumroad") abgewickelt werden. Hierfür ist auf dieser Seite ein Gumroad-Kauf-Button bzw. ein Gumroad-Overlay eingebunden. Bereits beim Aufruf dieser Seite bzw. spätestens bei Klick auf den Button wird eine Verbindung zu Servern von Gumroad hergestellt, wobei automatisch Daten wie Ihre IP-Adresse, Browser- und Geräteinformationen sowie gegebenenfalls Cookies oder ähnliche Technologien von Gumroad verarbeitet werden können.
+
+Schließen Sie über Gumroad einen Kauf ab, verarbeitet Gumroad zusätzlich die von Ihnen im Bestellprozess angegebenen Daten (z. B. Name, E-Mail-Adresse, Zahlungsinformationen, Rechnungsanschrift, Kaufhistorie).
+
+Verantwortlichkeiten: Soweit Gumroad in unserem Auftrag Bestell- und Käuferdaten verarbeitet, handelt Gumroad als Auftragsverarbeiter für uns; wir bleiben insoweit datenschutzrechtlich Verantwortliche. Für eigene Zwecke – insbesondere die Zahlungsabwicklung, Betrugsprävention, die Erfüllung steuerrechtlicher Pflichten sowie den Betrieb der Gumroad-Plattform selbst – verarbeitet Gumroad Daten hingegen als eigenständige Verantwortliche; insoweit gilt die Datenschutzerklärung von Gumroad (siehe unten).
+
+Zweck und Rechtsgrundlage: Die Verarbeitung erfolgt zur Abwicklung Ihres Kaufvertrags sowie zur Bereitstellung des erworbenen digitalen Produkts (Art. 6 Abs. 1 lit. b DSGVO). Soweit Gumroad Daten zu eigenen Zwecken (z. B. Betrugsprävention, Sicherheit) verarbeitet, stützt sich dies auf die berechtigten Interessen von Gumroad (Art. 6 Abs. 1 lit. f DSGVO) bzw. auf gesetzliche Verpflichtungen (Art. 6 Abs. 1 lit. c DSGVO).
+
+Empfänger / Drittlandübermittlung: Gumroad, Inc. hat seinen Sitz in den USA. Eine Übermittlung personenbezogener Daten in die USA erfolgt auf Grundlage der von der EU-Kommission genehmigten Standardvertragsklauseln, die Bestandteil der Auftragsverarbeitungsvereinbarung („Data Processing Addendum") von Gumroad sind, abrufbar unter https://gumroad.com/dpa. Eine aktuelle Liste der von Gumroad eingesetzten Subunternehmer (Sub-Processors) finden Sie unter https://gumroad.com/help/article/110-gumroads-subprocessors.
+
+Speicherdauer: Die Speicherdauer richtet sich nach den Angaben in der Datenschutzerklärung von Gumroad sowie nach etwaigen gesetzlichen Aufbewahrungspflichten.
+
+Betroffenenrechte: Informationen zur Ausübung Ihrer Rechte gegenüber Gumroad (z. B. Auskunft, Löschung) finden Sie unter https://gumroad.com/help/article/349-gdpr-data-requests. Sie können sich hierzu auch jederzeit an uns wenden.
+
+Weitere Informationen: Die vollständige Datenschutzerklärung von Gumroad finden Sie unter https://gumroad.com/privacy.
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------

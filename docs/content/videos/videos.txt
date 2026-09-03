@@ -7,7 +7,7 @@ Auch <highlight>Ballermann</highlight> ist Hochkultur!
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXT_RECHTS OHNE_ABSTAND_UNTEN
 -----------------------
-Noten über den <link>anzeigetext:Shop;url:"https://simonmackmusik.gumroad.com/"</link> erhältlich.
+Noten sind über den <link>anzeigetext:Shop;url:"https://simonmackmusik.gumroad.com/"</link> erhältlich.
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 VIDEOS

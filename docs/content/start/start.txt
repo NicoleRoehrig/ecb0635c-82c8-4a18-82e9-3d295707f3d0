@@ -8,7 +8,7 @@ Simon Mack ist als Arrangeur, Komponist und Pädagoge tätig. Seit 2025 ist er P
 
 <button>anzeigetext:mehr;url:"about"</button>
 -------------
-start/fotoandererausschnitt.jpg
+start/photo-start.jpeg
 -------------
 Arrangeur, Komponist, Pädagoge
 ----------------------------------------------------------------------------------------------------------------------------------

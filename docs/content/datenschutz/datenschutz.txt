@@ -1,279 +1,104 @@
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 1. Datenschutz auf einen Blick
------------------------------
+--------------------------
+
 1.1. Allgemeine Hinweise
 
-Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten //
-passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie //
-persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen //
-Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
-
+Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen entnehmen Sie der unter diesem Text aufgeführten Datenschutzerklärung.
 
 1.2. Datenerfassung auf dieser Website
 
-Wer ist verantwortlich für die Datenerfassung auf dieser Website?
+Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber (siehe „Verantwortliche Stelle“). Daten werden zum einen erhoben, wenn Sie uns diese mitteilen, etwa wenn Sie uns eine E-Mail schreiben. Andere Daten werden automatisch beim Besuch der Website erfasst, vor allem technische Daten (z. B. Internetbrowser, Betriebssystem, Uhrzeit des Seitenaufrufs). Sofern über die Website digitale Produkte erworben werden können, werden die dafür übermittelten Daten für die Vertragsabwicklung verarbeitet.
 
-Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten //
-können Sie dem Abschnitt „Hinweis zur verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.
+1.3. Cookies und Einwilligung
 
-Wie erfassen wir Ihre Daten?
+Beim ersten Besuch dieser Website werden Sie über ein Einwilligungs-Tool (Cookiebot) um Zustimmung zu nicht notwendigen Cookies und Diensten gebeten. Details dazu finden Sie unter Punkt 4 dieser Erklärung.
 
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um //
-Daten handeln, die Sie in ein Kontaktformular eingeben.
-Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere ITSysteme //
-erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit //
-des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
-
-Wofür nutzen wir Ihre Daten?
-
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere //
-Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden. Sofern über die Website Verträge //
-geschlossen oder angebahnt werden können, werden die übermittelten Daten auch für Vertragsangebote, //
-Bestellungen oder sonstige Auftragsanfragen verarbeitet.
-
-Welche Rechte haben Sie bezüglich Ihrer Daten?
-
-Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer //
-gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder //
-Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, //
-können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter //
-bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. //
-Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
-
-Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
-
-1.3. Analyse-Tools und Tools von Drittanbietern
-
-Beim Besuch dieser Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor //
-allem mit sogenannten Analyseprogrammen. //
-Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in der folgenden //
-Datenschutzerklärung.
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 2. Allgemeine Hinweise und Pflichtinformationen
------------------------------
-2.1. Datenschutz
+--------------------------
 
-Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre //
-personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie //
-dieser Datenschutzerklärung.
+2.1. Verantwortliche Stelle
 
-Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. //
-Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende //
-Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie //
-und zu welchem Zweck das geschieht.
-
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) //
-Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht //
-möglich.
-
-2.2. Hinweis zur verantwortlichen Stelle
-
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 
 Simon Mack
 Feilitzschstr. 35a
 80802 München
 E-Mail: info@simonmack.de
 
-Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über //
-die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) //
-entscheidet.
+Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Die Datenübertragung im Internet kann Sicherheitslücken aufweisen; ein lückenloser Schutz vor dem Zugriff durch Dritte ist nicht möglich.
 
-2.3. Speicherdauer
+2.2. Ihre Rechte
 
-Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben //
-Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein //
-berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, //
-werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer //
-personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im //
-letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
+Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit folgende Rechte:
 
-2.4. Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
+- Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten, deren Herkunft, Empfänger und den Zweck der Verarbeitung (Art. 15 DSGVO)
+- Berichtigung unrichtiger oder Vervollständigung unvollständiger Daten (Art. 16 DSGVO)
+- Löschung Ihrer bei uns gespeicherten Daten, soweit keine gesetzliche Aufbewahrungspflicht entgegensteht (Art. 17 DSGVO)
+- Einschränkung der Verarbeitung Ihrer Daten (Art. 18 DSGVO)
+- Herausgabe Ihrer Daten in einem gängigen, maschinenlesbaren Format (Art. 20 DSGVO)
+- Widerspruch gegen die Verarbeitung, die auf Art. 6 Abs. 1 lit. e oder f DSGVO gestützt ist (Art. 21 DSGVO)
+- Widerruf einer erteilten Einwilligung mit Wirkung für die Zukunft, ohne Auswirkung auf die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung
+- Beschwerde bei einer Datenschutz-Aufsichtsbehörde, insbesondere in dem Mitgliedstaat Ihres Aufenthaltsorts oder Arbeitsplatzes (Art. 77 DSGVO)
 
-Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf //
-Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien //
-nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Im Falle einer ausdrücklichen Einwilligung in die Übertragung //
-personenbezogener Daten in Drittstaaten erfolgt die Datenverarbeitung außerdem auf Grundlage von Art. //
-49 Abs. 1 lit. a DSGVO. Sofern Sie in die Speicherung von Cookies oder in den Zugriff auf Informationen in //
-Ihr Endgerät (z. B. via Device-Fingerprinting) eingewilligt haben, erfolgt die Datenverarbeitung zusätzlich //
-auf Grundlage von § 25 Abs. 1 TDDDG. Die Einwilligung ist jederzeit widerrufbar. Sind Ihre Daten zur //
-Vertragserfüllung oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, verarbeiten wir Ihre //
-Daten auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO. Des Weiteren verarbeiten wir Ihre Daten, sofern diese //
-zur Erfüllung einer rechtlichen Verpflichtung erforderlich sind auf Grundlage von Art. 6 Abs. 1 lit. c DSGVO. //
-Die Datenverarbeitung kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f //
-DSGVO erfolgen. Über die jeweils im Einzelfall einschlägigen Rechtsgrundlagen wird in den folgenden //
-Absätzen dieser Datenschutzerklärung informiert.
+Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
 
-2.5. Empfänger von personenbezogenen Daten
+2.3. Speicherdauer und Rechtsgrundlagen
 
-Im Rahmen unserer Geschäftstätigkeit arbeiten wir mit verschiedenen externen Stellen zusammen. Dabei //
-ist teilweise auch eine Übermittlung von personenbezogenen Daten an diese externen Stellen erforderlich. //
-Wir geben personenbezogene Daten nur dann an externe Stellen weiter, wenn dies im Rahmen einer //
-Vertragserfüllung erforderlich ist, wenn wir gesetzlich hierzu verpflichtet sind (z. B. Weitergabe von Daten //
-an Steuerbehörden), wenn wir ein berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO an der Weitergabe //
-haben oder wenn eine sonstige Rechtsgrundlage die Datenweitergabe erlaubt. Beim Einsatz von //
-Auftragsverarbeitern geben wir personenbezogene Daten unserer Kunden nur auf Grundlage eines gültigen //
-Vertrags über Auftragsverarbeitung weiter. Im Falle einer gemeinsamen Verarbeitung wird ein Vertrag über //
-gemeinsame Verarbeitung geschlossen.
+Soweit in dieser Erklärung keine speziellere Speicherdauer genannt ist, verbleiben Ihre Daten bei uns, bis der Zweck der Verarbeitung entfällt oder Sie ein berechtigtes Löschersuchen geltend machen bzw. eine Einwilligung widerrufen; gesetzliche Aufbewahrungsfristen bleiben unberührt. Rechtsgrundlage ist je nach Fall Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), lit. b (Vertragserfüllung), lit. c (rechtliche Verpflichtung) oder lit. f DSGVO (berechtigtes Interesse); soweit die Verarbeitung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät betrifft, zusätzlich § 25 Abs. 1 TDDDG. Eine erteilte Einwilligung ist jederzeit widerrufbar.
 
-2.6. Widerruf Ihrer Einwilligung zur Datenverarbeitung
+2.4. SSL- bzw. TLS-Verschlüsselung
 
-Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine //
-bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten //
-Datenverarbeitung bleibt vom Widerruf unberührt.
+Diese Seite nutzt zum Schutz der Übertragung vertraulicher Inhalte eine SSL- bzw. TLS-Verschlüsselung, erkennbar an „https://“ und dem Schloss-Symbol in der Browserzeile.
 
-2.7. Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)
-
-Wenn die Datenverarbeitung auf Grundlage von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, haben Sie jederzeit das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, gegen die Verarbeitung Ihrer personenbezogenen Daten Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. Die jeweilige Rechtsgrundlage, auf denen eine Verarbeitung beruht, entnehmen Sie dieser Datenschutzerklärung. Wenn Sie Widerspruch einlegen, werden wir Ihre betroffenen personenbezogenen Daten nicht mehr verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen (Widerspruch nach Art. 21 Abs. 1 DSGVO). Werden Ihre personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, so haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung Sie betreffender personenbezogener Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. Wenn Sie widersprechen, werden Ihre personenbezogenen Daten anschließend nicht mehr zum Zwecke der Direktwerbung verwendet (Widerspruch nach Art. 21 Abs. 2 DSGVO).
-
-2.8. Beschwerderecht bei der zuständigen Aufsichtsbehörde
-
-Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer //
-Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes //
-oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger //
-verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
-
-Recht auf Datenübertragbarkeit:
-
-Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags //
-automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format //
-aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen //
-verlangen, erfolgt dies nur, soweit es technisch machbar ist.
-
-Auskunft, Berichtigung und Löschung:
-
-Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche //
-Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den //
-Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie //
-zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden. //
-
-Recht auf Einschränkung der Verarbeitung:
-
-Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. //
-Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in //
-folgenden Fällen:
-- Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir //
-in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die //
-Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-- Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie //
-statt der Löschung die Einschränkung der Datenverarbeitung verlangen. //
-- Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, //
-Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der //
-Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-- Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen //
-Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen //
-überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten //
-zu verlangen.
-
-Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von //
-ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder //
-Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder //
-juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder //
-eines Mitgliedstaats verarbeitet werden.
-
-2.9. SSL- bzw. TLS-Verschlüsselung
-Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum //
-Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLSVerschlüsselung. //
-Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von //
-„http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. //
-Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten //
-mitgelesen werden.
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 3. Hosting
-------------------------
-3.1. Externes Hosting
+--------------------------
 
-Diese Website wird extern als GitHub Pages Website gehostet. Das externe Hosting erfolgt zum Zwecke im Interesse //
-einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen //
-Anbieter (Art. 6 Abs. 1 lit. f DSGVO).
+Diese Website wird extern über GitHub Pages gehostet. Anbieter ist GitHub, Inc., 88 Colin P. Kelly Jr. St., San Francisco, CA 94107, USA. GitHub Pages erfasst und speichert dabei technische Daten von Websitebesuchern, z. B. IP-Adressen, um die Sicherheit und Integrität des Dienstes zu gewährleisten. Das Hosting erfolgt im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots (Art. 6 Abs. 1 lit. f DSGVO). GitHub ist nach dem „EU-US Data Privacy Framework“ (DPF) zertifiziert. Weitere Informationen: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
 
-3.2. GitHub Pages Service
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+4. Cookie-Einwilligung (Cookiebot)
+--------------------------
 
-Wir nutzen GitHub Pages, um unsere Website zu hosten. Anbieter ist //
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States.
+Diese Website nutzt die Einwilligungsmanagement-Plattform „Cookiebot“, um Ihre Einwilligung zu nicht technisch notwendigen Cookies und Diensten (z. B. eingebettete Videos) einzuholen, zu dokumentieren und zu verwalten. Anbieter ist Cybot A/S, Havnegade 39, 1058 Kopenhagen, Dänemark.
 
-GitHub Pages erfasst und speichert personenbezogene Daten von Nutzern der Website. Hierbei kann es sich z.B um //
-IP-Adressen handeln, um rechtliche Anforderungen zu erfüllen und die Sicherheit und Integrität der Website und des //
-Services zu erfüllen.
+Dabei wird ein Cookie gesetzt, das Ihre Einwilligungsentscheidung sowie den Zeitpunkt der Erteilung speichert; zum Nachweis kann hierbei auch Ihre IP-Adresse verarbeitet werden. Ohne diese Speicherung könnten wir Ihre Auswahl bei einem erneuten Besuch nicht berücksichtigen.
 
-Das Hosting über GitHub Pages erfolgt zum Zwecke im Interesse einer sicheren, schnellen und effizienten //
-Bereitstellung unseres Online-Angebots. //
-Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
-Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage //
-von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den //
-Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die //
-Einwilligung ist jederzeit widerrufbar.
+Die Verarbeitung erfolgt zur Erfüllung unserer gesetzlichen Nachweispflicht bezüglich erteilter Einwilligungen (Art. 6 Abs. 1 lit. c DSGVO) sowie in unserem berechtigten Interesse an einer rechtskonformen, nutzerfreundlichen Verwaltung von Cookie-Einwilligungen (Art. 6 Abs. 1 lit. f DSGVO). Das Einwilligungs-Cookie wird in der Regel für ein Jahr gespeichert. Sie können Ihre Auswahl jederzeit über die Cookie-Einstellungen dieser Website ändern oder widerrufen.
 
-Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von GitHub: //
-https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+Weitere Informationen finden Sie in der Datenschutzerklärung von Cookiebot: https://www.cookiebot.com/de/privacy-policy/
 
-Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der //
-DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung //
-europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach //
-dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere //
-Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: //
-https://www.dataprivacyframework.gov
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
-4. Plugins und Tools
-----------------
-4.1. YouTube
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+5. Kontaktaufnahme per E-Mail
+--------------------------
 
-Diese Website bindet Videos der Website YouTube ein. Betreiber der Website ist die Google Ireland Limited //
-(„Google“), Gordon House, Barrow Street, Dublin 4, Irland.
+Wenn Sie uns per E-Mail kontaktieren, speichern wir die mit der E-Mail übermittelten personenbezogenen Daten (z. B. Name, E-Mail-Adresse, Nachrichteninhalt), um Ihre Anfrage zu bearbeiten. Diese Daten geben wir ohne Ihre Einwilligung nicht an Dritte weiter.
 
-Wenn Sie eine unserer Webseiten besuchen, auf denen YouTube eingebunden ist, wird eine Verbindung zu //
-den Servern von YouTube hergestellt. Dabei wird dem YouTube-Server mitgeteilt, welche unserer Seiten Sie //
-besucht haben.
+Die Verarbeitung erfolgt auf Grundlage unseres berechtigten Interesses an der Beantwortung Ihrer Anfrage (Art. 6 Abs. 1 lit. f DSGVO) bzw., sofern Ihre Anfrage auf den Abschluss eines Vertrags zielt, auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Die Daten werden gelöscht, sobald die jeweilige Konversation beendet ist und keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Sie können der Speicherung Ihrer Daten jederzeit widersprechen; in diesem Fall kann die Konversation nicht fortgeführt werden.
 
-Des Weiteren kann YouTube verschiedene Cookies auf Ihrem Endgerät speichern oder vergleichbare //
-Technologien zur Wiedererkennung verwenden (z. B. Device-Fingerprinting). Auf diese Weise kann //
-YouTube Informationen über Besucher dieser Website erhalten. Diese Informationen werden u. a. //
-verwendet, um Videostatistiken zu erfassen, die Anwenderfreundlichkeit zu verbessern und //
-Betrugsversuchen vorzubeugen. Des Weiteren werden die erfassten Daten im Google-Werbenetzwerk //
-verarbeitet.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+6. Plugins und Tools
+--------------------------
 
-Wenn Sie in Ihrem YouTube-Account eingeloggt sind, ermöglichen Sie YouTube, Ihr Surfverhalten direkt //
-Ihrem persönlichen Profil zuzuordnen. Dies können Sie verhindern, indem Sie sich aus Ihrem YouTube- //
-Account ausloggen.
+6.1. YouTube
 
-Die Nutzung von YouTube erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote. //
-Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Sofern eine entsprechende //
-Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a //
-DSGVO und § 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf //
-Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die //
-Einwilligung ist jederzeit widerrufbar.
+Diese Website bindet Videos von YouTube im datenschutzfreundlichen „erweiterten Datenschutzmodus“ (youtube-nocookie.com) ein. Betreiber ist Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Beim Aufruf einer Seite mit eingebettetem Video wird eine Verbindung zu Servern von YouTube hergestellt; dabei können Cookies bzw. vergleichbare Technologien gesetzt und Informationen über Ihren Besuch verarbeitet werden, u. a. um Videostatistiken zu erfassen. Sind Sie in Ihrem YouTube-Account eingeloggt, kann YouTube Ihr Verhalten Ihrem Profil zuordnen; dies verhindern Sie durch vorheriges Ausloggen.
 
-Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von YouTube //
-unter:
-https://policies.google.com/privacy?hl=de.
+Die Nutzung erfolgt im Interesse einer ansprechenden Darstellung unserer Inhalte (Art. 6 Abs. 1 lit. f DSGVO); soweit hierfür eine Einwilligung eingeholt wurde, auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG. Weitere Informationen: https://policies.google.com/privacy?hl=de
 
-Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der //
-DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung //
-europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach //
-dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere //
-Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: //
-https://www.dataprivacyframework.gov/participant/5780.
+6.2. Gumroad
 
-4.2.Gumroad
+Digitale Produkte auf dieser Website werden über den Dienst „Gumroad“ (Gumroad, Inc., 548 Market St PMB 96143, San Francisco, CA 94104, USA) angeboten. Beim Aufruf einer Seite mit Gumroad-Einbindung bzw. spätestens bei Klick auf den Kauf-Button wird eine Verbindung zu Gumroad-Servern hergestellt, wobei Daten wie IP-Adresse sowie Browser- und Geräteinformationen verarbeitet werden können. Bei einem Kauf verarbeitet Gumroad zusätzlich Ihre Bestelldaten (z. B. Name, E-Mail-Adresse, Zahlungsinformationen, Rechnungsanschrift).
 
-Wir bieten auf dieser Website digitale Produkte zum Kauf an, die über den Dienst „Gumroad" der Gumroad, Inc., 548 Market St PMB 96143, San Francisco, CA 94104, USA („Gumroad") abgewickelt werden. Hierfür ist auf dieser Seite ein Gumroad-Kauf-Button bzw. ein Gumroad-Overlay eingebunden. Bereits beim Aufruf dieser Seite bzw. spätestens bei Klick auf den Button wird eine Verbindung zu Servern von Gumroad hergestellt, wobei automatisch Daten wie Ihre IP-Adresse, Browser- und Geräteinformationen sowie gegebenenfalls Cookies oder ähnliche Technologien von Gumroad verarbeitet werden können.
+Für die Kaufabwicklung handelt Gumroad teils als unser Auftragsverarbeiter, teils als eigenständig Verantwortlicher (z. B. für Zahlungsabwicklung, Betrugsprävention, eigene rechtliche Pflichten). Die Verarbeitung erfolgt zur Erfüllung Ihres Kaufvertrags (Art. 6 Abs. 1 lit. b DSGVO) bzw. auf Grundlage berechtigter Interessen oder gesetzlicher Pflichten von Gumroad (Art. 6 Abs. 1 lit. f bzw. lit. c DSGVO). Gumroad, Inc. hat seinen Sitz in den USA; die Datenübermittlung erfolgt auf Grundlage von EU-Standardvertragsklauseln (https://gumroad.com/dpa). Ihre Rechte gegenüber Gumroad können Sie unter https://gumroad.com/help/article/349-gdpr-data-requests geltend machen; die vollständige Datenschutzerklärung von Gumroad finden Sie unter https://gumroad.com/privacy.
 
-Schließen Sie über Gumroad einen Kauf ab, verarbeitet Gumroad zusätzlich die von Ihnen im Bestellprozess angegebenen Daten (z. B. Name, E-Mail-Adresse, Zahlungsinformationen, Rechnungsanschrift, Kaufhistorie).
-
-Verantwortlichkeiten: Soweit Gumroad in unserem Auftrag Bestell- und Käuferdaten verarbeitet, handelt Gumroad als Auftragsverarbeiter für uns; wir bleiben insoweit datenschutzrechtlich Verantwortliche. Für eigene Zwecke – insbesondere die Zahlungsabwicklung, Betrugsprävention, die Erfüllung steuerrechtlicher Pflichten sowie den Betrieb der Gumroad-Plattform selbst – verarbeitet Gumroad Daten hingegen als eigenständige Verantwortliche; insoweit gilt die Datenschutzerklärung von Gumroad (siehe unten).
-
-Zweck und Rechtsgrundlage: Die Verarbeitung erfolgt zur Abwicklung Ihres Kaufvertrags sowie zur Bereitstellung des erworbenen digitalen Produkts (Art. 6 Abs. 1 lit. b DSGVO). Soweit Gumroad Daten zu eigenen Zwecken (z. B. Betrugsprävention, Sicherheit) verarbeitet, stützt sich dies auf die berechtigten Interessen von Gumroad (Art. 6 Abs. 1 lit. f DSGVO) bzw. auf gesetzliche Verpflichtungen (Art. 6 Abs. 1 lit. c DSGVO).
-
-Empfänger / Drittlandübermittlung: Gumroad, Inc. hat seinen Sitz in den USA. Eine Übermittlung personenbezogener Daten in die USA erfolgt auf Grundlage der von der EU-Kommission genehmigten Standardvertragsklauseln, die Bestandteil der Auftragsverarbeitungsvereinbarung („Data Processing Addendum") von Gumroad sind, abrufbar unter https://gumroad.com/dpa. Eine aktuelle Liste der von Gumroad eingesetzten Subunternehmer (Sub-Processors) finden Sie unter https://gumroad.com/help/article/110-gumroads-subprocessors.
-
-Speicherdauer: Die Speicherdauer richtet sich nach den Angaben in der Datenschutzerklärung von Gumroad sowie nach etwaigen gesetzlichen Aufbewahrungspflichten.
-
-Betroffenenrechte: Informationen zur Ausübung Ihrer Rechte gegenüber Gumroad (z. B. Auskunft, Löschung) finden Sie unter https://gumroad.com/help/article/349-gdpr-data-requests. Sie können sich hierzu auch jederzeit an uns wenden.
-
-Weitere Informationen: Die vollständige Datenschutzerklärung von Gumroad finden Sie unter https://gumroad.com/privacy.
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------

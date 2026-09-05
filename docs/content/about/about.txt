@@ -31,9 +31,9 @@ TRENNSTRICH
 ----------------------------------------------------------------------------------------------------------------------------------
 BILDROTATOR
 -------------
-about/fotoexportschlager.jpg
-Staatstheater Augsburg
-Wiard Witholt, Luise von Garnier, Elke Kottmair, Natalya Boeva, Claudio Zazzaro
+about/impression-1.jpg
+Impressionen
+Manuskript
 -------------
 about/fotoladenburger.jpg
 Ballermannprojekt live
@@ -42,18 +42,6 @@ Laura Richter, Simon Mack
 about/fotobergsonannabellehd.jpg
 Ballermannprojekt live
 Anna Gebhardt, Annabelle Kern
--------------
-about/fotoexportschlager2.jpg
-Staatstheater Augsburg
-Elke Kottmair, Wiard Witholt
--------------
-about/fotorundfunkchorhd.jpg
-Rundfunkchor Berlin
-Boussa Thiam, Simon Mack
--------------
-about/impression-1.jpg
-Impressionen
-Manuskript
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 TEXTBLOCK_OHNE_PHOTO

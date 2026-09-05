@@ -31,13 +31,13 @@ TRENNSTRICH
 ----------------------------------------------------------------------------------------------------------------------------------
 BILDROTATOR
 -------------
-about/impression-1.jpg
-Impressionen
-Manuskript
--------------
 about/fotoladenburger.jpg
 Ballermannprojekt live
 Laura Richter, Simon Mack
+-------------
+about/impression-1.jpg
+Impressionen
+Manuskript
 -------------
 about/fotobergsonannabellehd.jpg
 Ballermannprojekt live
